@@ -16,6 +16,7 @@
     "@modules/articles": "file:./modules/articles/",
     "@modules/camera": "file:./modules/camera",
     "@modules/chat": "file:./modules/chat/",
+    "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/splash": "file:./modules/splash/",
