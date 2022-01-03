@@ -84,11 +84,13 @@ const styles = StyleSheet.create({
     fontSize: 16
   }
 })
+
 export const globalOptions = {
   name: "ideapros_llc_vista_32437",
   url: "https://ideapros_llc_vista_32437.botics.co",
   api: "https://ideapros_llc_vista_32437.botics.co/api/v1"
 }
+
 export const modulesOptions = {
   "@modules/app-menu": { copy: "Routes available!" },
   undefined: { title: "App Menu", copy: "Routes available!", styles: styles },
@@ -104,5 +106,6 @@ export const modulesOptions = {
     SignInButtonText: "Login",
     SignUpButtonText: "Sign Up"
   },
+
   "@modules/camera": { buttonText: "+ Take Photo", styles: styles }
 }
